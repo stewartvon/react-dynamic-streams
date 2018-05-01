@@ -55,7 +55,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 # next.js build output
 .next
@@ -64,3 +63,4 @@ typings/
 .DS_Store
 
 dist/
+config.bat
