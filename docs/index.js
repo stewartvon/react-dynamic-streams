@@ -5,6 +5,7 @@ import CounterDocs from "../examples/counter/README.md"
 
 const App = () => (
   <div>
+    
     <CounterDocs />
     <Counter />
   </div>
